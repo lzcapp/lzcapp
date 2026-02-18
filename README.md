@@ -6,7 +6,7 @@
 
 ## :floppy_disk: Activity
 
-If I am not active here, I am probably working (or at my Git server: **[git.seeleo.com](https://git.seeleo.com/)**).
+If I am not active here, I am probably working.
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lzcapp&theme=transparent" width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lzcapp&theme=transparent&utcOffset=8" width="50%">
 
