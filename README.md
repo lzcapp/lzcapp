@@ -2,8 +2,6 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lzcapp&theme=transparent" width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lzcapp&theme=transparent" width="50%">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lzcapp&theme=discord&no-bg=true&no-frame=true" width="100%">
-
 ## :floppy_disk: Activity
 
 If I am not active here, I am probably working.
