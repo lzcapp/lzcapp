@@ -12,9 +12,13 @@ If I am not active here, I am probably working.
 
 GPG:  [`F617` `0792` `76DF` `BFBD`](https://keyserver.ubuntu.com/pks/lookup?search=F617079276DFBFBD&fingerprint=on&op=index)
 
+<br>
+
 ## :e-mail: Contact
 
 Reach me at admin@lzc.app / hi@lzc.app
+
+<br>
 
 ## :desktop_computer: Environments
 
